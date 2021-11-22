@@ -35,7 +35,7 @@ const AddNode = (props) =>{
             <Grid item xs={6}>
                 <TextField
                     fullWidth
-                    label="New Note"
+                    label="New Note 2"
                     variant="outlined"
                     value={dispText}
                     onChange={handleChange}
